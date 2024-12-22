@@ -1,0 +1,10 @@
+[Unit]
+Description=BSM Service
+After=network.target
+
+[Service]
+ExecStart=/usr/bin/python3 bsat.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target

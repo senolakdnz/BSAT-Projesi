@@ -1,0 +1,27 @@
+[
+    {
+        "time": "2024-12-22 10:52:16",
+        "file": "/home/ubuntu/bsm/test/dosya.txt",
+        "change_type": "created"
+    },
+    {
+        "time": "2024-12-22 10:52:16",
+        "file": "/home/ubuntu/bsm/test/dosya.txt",
+        "change_type": ""
+    },
+    {
+        "time": "2024-12-22 10:52:16",
+        "file": "/home/ubuntu/bsm/test/dosya.txt",
+        "change_type": "modified"
+    },
+    {
+        "time": "2024-12-22 10:52:16",
+        "file": "/home/ubuntu/bsm/test/dosya.txt",
+        "change_type": ""
+    },
+    {
+        "time": "2024-12-22 10:52:42",
+        "file": "/home/ubuntu/bsm/test/dosya.txt",
+        "change_type": "deleted"
+    }
+]
